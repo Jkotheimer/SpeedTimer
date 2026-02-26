@@ -2,3 +2,4 @@
 *.lck
 .~lock*
 \#auto_saved_files\#
+_autosave*
