@@ -1,4 +1,5 @@
 *-backups/
+*-bak
 *.lck
 .~lock*
 \#auto_saved_files\#
